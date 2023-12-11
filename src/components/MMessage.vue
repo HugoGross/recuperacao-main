@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <p>Empty Cart</p>
+    <p>Carrinho Vazio</p>
 </template>
 
 <style scoped>

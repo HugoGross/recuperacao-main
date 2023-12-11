@@ -25,7 +25,7 @@ function formatarPreco(preco) {
     </div>
     <div class="card-buttons-livros">
       <hr />
-      <m-button class="secundario" @click="adicionarAoCarrinho(props.livro)" text="Add" />
+      <m-button class="secundario" @click="adicionarAoCarrinho(props.livro)" text="Adicionar" />
       <cart-plus />
       <m-button class="estrela" text="&#9734;" />
       <m-button class="sucesso"> <share-variant /> </m-button>
@@ -38,7 +38,7 @@ function formatarPreco(preco) {
 .card-livro {
   margin: 5px 10px;
   padding: 10px;
-  background-color: rgb(2, 88, 88);
+  background-color: rgb(2, 88, 31);
   border-radius: 10px;
   border-style:groove;
   width: 180px;

@@ -4,7 +4,7 @@ import ListagemLivros from '@/components/ListagemLivros.vue'
 </script>
 
 <template>
-  <h1>bolas da Copa do Mundo</h1>
+  <h1>Componentes Eletrônicos</h1>
   <div class="container-geral">
     <listagem-livros />
     <meu-carrinho />
@@ -24,7 +24,7 @@ h1 {
   text-align: center;
   padding: 5px;
   color: white;
-  background-color: rgb(2, 88, 88);
+  background-color: rgb(17, 60, 88);
   border-radius: 10px;
   border-color: rgb(255, 255, 255);
   border-style: groove;
